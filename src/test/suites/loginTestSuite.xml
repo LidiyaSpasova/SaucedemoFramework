@@ -1,12 +1,12 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name="Login Tests" thread-count="2" parallel="tests" annotations="JDK" verbose="1">
-    <test name="SuccessfulLoginTest">
+    <test name="AddProductTest">
         <classes>
             <class name="tests.AddProductTest"/>
         </classes>
     </test>
-    <test name="UnSuccessfulLoginTest">
+    <test name="tests.CheckoutTest">
         <classes>
             <class name="tests.CheckoutTest"/>
         </classes>
