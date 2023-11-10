@@ -6,7 +6,7 @@
             <class name="tests.AddProductTest"/>
         </classes>
     </test>
-    <test name="tests.CheckoutTest">
+    <test name="CheckoutTest">
         <classes>
             <class name="tests.CheckoutTest"/>
         </classes>
