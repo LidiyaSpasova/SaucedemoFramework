@@ -25,7 +25,7 @@ public class InventoryPage extends BasePage{
     }
 
     public void addItemToTheCart(String itemName){
-        //dynamically build the element locator:
+
         WebElement itemTobeAdded = driver.findElement(By.id(ID_PRODUCT_BASE + itemName));
         itemTobeAdded.click();
     }

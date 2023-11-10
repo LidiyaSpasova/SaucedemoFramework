@@ -9,8 +9,6 @@ Q
 !src/test/java/pages/BasePage.java,b\a\bad33c200b069c9a74de9dfe76f946ebd1f102bf
 R
 "src/test/java/pages/LoginPage.java,2\f\2febc867dad266b12f3cf09596e572e0dcf37dbf
-T
-$src/test/java/pages/ProductPage.java,d\3\d3d1f0b73a437016b8e297cf4d10e792b2c6b213
 U
 %src/test/java/base/DataProviders.java,8\3\83f5cd1d151d2818923201614bf221abd782b176
 F
@@ -35,8 +33,6 @@ Q
 ,src/test/java/pages/CheckoutStepOnePage.java,1\5\151dc99194852209c708d5dd55de0f3ff37e573f
 \
 ,src/test/java/pages/CheckoutStepTwoPage.java,7\d\7dc9f9508b9e872d6c826233f22d4390e32bf231
-\
-,src/test/java/pages/CheckoutComletePage.java,a\1\a1a256da00fcfa48691e5090ef99397473ab7977
 ]
 -src/test/java/pages/CheckoutCompletePage.java,6\0\605c83f94edd453858a6ff061e6c40ce8ae939a0
 Å
